@@ -3,7 +3,7 @@
 - [ ] [ html 规范设计的指导原则草案](https://www.w3.org/TR/html-design-principles/)
 - [ ] [详解浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Resources)
 - [ ] [讲解数据库原理](https://gameinstitute.qq.com/community/detail/107154)
-- [ ] [c 语言问题集锦] http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html  
+- [ ] [c 语言问题集锦](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html) 
 - [ ] [如何制定教学课程](http://teachtogether.tech/#s:models )
 - [ ]  [微软写作指南](https://docs.microsoft.com/zh-cn/style-guide/welcome/)
 - [ ]   [数据可视化基础书籍](https://serialmentor.com/dataviz/)
