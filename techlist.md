@@ -1,4 +1,5 @@
 # 技术清单
+- [ ] 1人日看完 [前端检查清单](https://github.com/thedaviddias/Front-End-Checklist)
 - [ ] [vue 源码分析](https://ustbhuangyi.github.io/vue-analysis)
 - [ ] [ html 规范设计的指导原则草案](https://www.w3.org/TR/html-design-principles/)
 - [ ] [详解浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Resources)
@@ -18,6 +19,7 @@
 - [ ]  [google 代码审核实践](https://google.github.io/eng-practices/)
 - [ ]  [黑客原则 核心编程原则](https://github.com/nusr/hacker-laws-zh)
 - [ ]  [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [ ]  [2 人时 阅读 gitlab 设计指南](https://design.gitlab.com/get-started/contributing) 
 - [ ]  [gitlab 开发手册](https://docs.gitlab.com/ee/development/fe_guide/)
 - [ ]  [api 设计规范](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [ ]  [github 工程师工作流](https://about.gitlab.com/handbook/engineering/workflow/)
@@ -29,5 +31,7 @@
 - [ ] [ git 飞行准则](https://github.com/k88hudson/git-flight-rules)
 - [ ]  [css 技巧 5人时](https://www.w3.org/Style/Examples/007/Overview.zh_CN.html)
 - [ ]  [原子设计](https://atomicdesign.bradfrost.com/table-of-contents/)
-
-
+- [ ] 2 人日 阅读 [gitlab flow](https://design.gitlab.com/)
+- [ ] [怎样解题](https://book.douban.com/subject/2124114/) 并写总结
+- [ ] 2 人日 学习[CircleCI](https://circleci.com/)
+- [ ] 14 人日 [架构整洁之道](https://book.douban.com/subject/30333919/)
