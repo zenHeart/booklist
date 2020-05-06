@@ -1,0 +1,15 @@
+# 书单
+## 待读清单
+*  [ ] [响应式Web设计全流程解析](https://book.douban.com/subject/26241601/)
+* [ ] [线性代数答案](https://kimpognrath.files.wordpress.com/2011/11/3rd-edition-linear-algebra-and-its-applications-solutions-manual.pdf)
+* [ ] [影响力](https://book.douban.com/subject/1786387/)
+* [ ] [实现模式](https://book.douban.com/subject/3324516/)
+- [ ] 重构与模式 
+- [ ] Design of Everyday Things
+- [ ] JavaScript编程精解
+		
+## 已读
+* [X] [穷爸爸富爸爸](./books/2019-10-05_穷爸爸富爸爸.md) 10.05 讲解资产和负债
+
+
+
